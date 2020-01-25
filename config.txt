@@ -1,0 +1,8 @@
+start_x=1
+gpu_mem=256
+over_voltage=4
+force_turbo=1
+hdmi_force_hotplug=1
+arm_freq=600
+arm_freq_max=700
+arm_freq_min=500
