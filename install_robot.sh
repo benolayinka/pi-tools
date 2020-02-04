@@ -11,6 +11,6 @@ cd ..
 git clone https://github.com/benolayinka/rover-client.git
 cd rover-client
 
-sudo apt install nodejs
+sudo apt install nodejs -y
 xargs sudo apt -y install < dependencies
 npm install
