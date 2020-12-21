@@ -6,7 +6,7 @@ if ($confirm "!=" y && $confirm != "Y"); then
   exit 1
 fi
 
-sudo cp config.txt /boot/config.txt
+# sudo cp config.txt /boot/config.txt
 
 sudo apt-get update -y
 sudo apt-get upgrade -y
